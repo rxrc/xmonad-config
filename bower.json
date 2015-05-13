@@ -1,0 +1,18 @@
+{
+  "name": "xmonad-config",
+  "version": "0.1.0",
+  "authors": [
+    "Evan Sosenko <razorx@evansosenko.com>"
+  ],
+  "description": "Xmonad configuration.",
+  "main": "xmonad/xmonad.hs",
+  "keywords": [
+    "Xmonad"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rxrc/xmonad-config",
+  "private": true,
+  "ignore": [
+    "**/.*"
+  ]
+}
